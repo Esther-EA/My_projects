@@ -11,8 +11,11 @@ The dataset can be accessed from following link: https://docs.google.com/spreads
 
 ## SKILLS
 SQL
+
 Powerbi
+
 Microsoft Excel
+
 Data Cleaning
 
 The goal of the project is developing a Powerbi Dashboard to create insights about road accident data in the United Kingdom.
