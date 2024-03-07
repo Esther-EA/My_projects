@@ -10,6 +10,8 @@ In this project we will be analysing the influence and use of the COVID-19 vacci
 we will be using Tableau and excel to conduct this analysis to acertain reliable analysis on this project.
 
 ## SKILLS 
+
 Tableau
+
 Microsoft Excel
 
