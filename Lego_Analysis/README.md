@@ -61,5 +61,5 @@ The study effectively documented the historical development of LEGO mini-figures
 
 Combining qualitative research with quantitative data analysis allowed for a thorough understanding of the mini-figures evolution from general, simplistic figures to the varied, character-rich  components that are essential to the LEGO experience.
 
-
+data source: https://mavenanalytics.io/challenges/maven-lego-challenge/1ccd508c-4cee-403a-baed-cd98dcdab715
 
