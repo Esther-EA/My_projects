@@ -5,6 +5,8 @@ The World Bank supports infrastructure projects in developing countries and publ
 To enhance this dataset, the United Nations (UN) has provided Human Development Index (HDI) data, which includes additional indicators to monitor development, environmental impact, and inequality for each country from 1990 to 2021.
 
 With this comprehensive data, I conducted an in-depth analysis of various economic indicators across different countries and timeframes.
+### PROJECT DASHBOARD LINK
+https://app.powerbi.com/view?r=eyJrIjoiZWFkMDk4ZGUtZDM2Ni00ZGUzLTk2NjctNTUwY2MwYjhjMWZkIiwidCI6IjBlNjYxZTk4LTgzNGUtNDkyMC05YzM5LWIzZTU0MmJiNjY2NSJ9
 
 ## Project Objective
 The primary goal of this project was to carry out a comprehensive analysis of each country’s data, focusing on crucial economic indicators such as GDP growth, population, life expectancy, income, unemployment rates, and more.
