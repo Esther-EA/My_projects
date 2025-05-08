@@ -4,6 +4,9 @@ The UK rail service providers are Network Rail and the Rail Delivery Group (RDG)
 
 The primary objective of the project was to develop an exploratory dashboard to evaluate passenger behavior and operational efficiency. This analysis aimed to uncover key insights and trends that could help National Rail Transport optimize their operations and improve overall performance.
 
+### DASHBOARD LINK
+https://app.powerbi.com/view?r=eyJrIjoiNzQ3ODI1MzUtZjQ5MC00OTA5LTkyMmEtMjhhYzcxOWQzYTc1IiwidCI6IjBlNjYxZTk4LTgzNGUtNDkyMC05YzM5LWIzZTU0MmJiNjY2NSJ9
+
 ## Project Objective
 The primary goal was to identify trends, patterns, and insights within the UK National Rail transport system from January to April 2024 using comprehensive ticket sales data. By analyzing passenger behavior and operational performance, the study sought to provide actionable insights to support strategic decision-making, optimize pricing strategies, enhance operational efficiency, and improve customer satisfaction. The key business questions addressed were:
 
